@@ -4,9 +4,9 @@
   
     
       <url>
-        <loc>https://rotokyo.github.io/roCard//404.html</loc>
+        <loc>http://localhost:4000/404.html</loc>
         
-          <lastmod>2020-02-12T02:31:44+00:00</lastmod>
+          <lastmod>2020-02-12T03:31:29+00:00</lastmod>
         
 
         
@@ -23,9 +23,9 @@
   
     
       <url>
-        <loc>https://rotokyo.github.io/roCard//</loc>
+        <loc>http://localhost:4000/</loc>
         
-          <lastmod>2020-02-12T02:31:44+00:00</lastmod>
+          <lastmod>2020-02-12T03:31:29+00:00</lastmod>
         
 
         
@@ -40,9 +40,9 @@
   
     
       <url>
-        <loc>https://rotokyo.github.io/roCard//assets/css/main.css</loc>
+        <loc>http://localhost:4000/assets/css/main.css</loc>
         
-          <lastmod>2020-02-12T02:31:44+00:00</lastmod>
+          <lastmod>2020-02-12T03:31:29+00:00</lastmod>
         
 
         
@@ -61,7 +61,7 @@
   
     
       <url>
-        <loc>https://rotokyo.github.io/roCard//pages/termini.html</loc>
+        <loc>http://localhost:4000/pages/termini.html</loc>
         
           <lastmod>2019-04-11</lastmod>
         
@@ -78,9 +78,9 @@
   
     
       <url>
-        <loc>https://rotokyo.github.io/roCard//assets/css/main.css.map</loc>
+        <loc>http://localhost:4000/assets/css/main.css.map</loc>
         
-          <lastmod>2020-02-12T02:31:44+00:00</lastmod>
+          <lastmod>2020-02-12T03:31:29+00:00</lastmod>
         
 
         

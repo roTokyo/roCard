@@ -16,4 +16,5 @@ This is mine!
   - [x] [Crisp](app.crisp.chat)
 
 ###### License for my personal data
-[![LICENSE](https://img.shields.io/badge/license-CC--BY--NC--ND%204.0-orange)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+[![LICENSE](https://img.shields.io/badge/Personal%20Data%20Protected%20by%3A-EU%20GDPR%20Law-orange)](https://europa.eu/youreurope/business/dealing-with-customers/data-protection/data-protection-gdpr/index_en.htm)
+[![LICENSE](https://img.shields.io/badge/Software%20licensed-CC--BY--NC--ND%204.0-orange)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
