@@ -7,8 +7,8 @@ This is mine!
  - [**Jekyll**](http://jekyllrb.com)
 
 
- - [X] [Favicon](https://realfavicongenerator.net)
- - [x] [Free icons from Iconarchive](http://www.iconarchive.com)
+ - [X] [Favicon](https://realfavicongenerator.net)  
+ - [x] [Free icons from Iconarchive](http://www.iconarchive.com)  
  - [x] Arrow top
  - [x] Smooth scroll
  - [x] [ © Badge](https://shields.io/) : Creative Commons Zero v1.0 Universal
@@ -25,4 +25,4 @@ This is mine!
 
 
 
-![@ Team kazuRo](https://img.shields.io/badge/@%20Team%20kazuRo%20%3A%20-%20%20We%20are%20human!-informational)
+![@ Team kazuRo](https://img.shields.io/badge/@%20Team%20kazuRo%20%3A%20-%20%20We%20are%20humans!-informational)
