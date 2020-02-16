@@ -5,17 +5,15 @@ This is mine!
 
 ## Features & Credits:
  - [**Jekyll**](http://jekyllrb.com)
-
-
- - [X] [Favicon](https://realfavicongenerator.net)  
- - [x] [Free icons from Iconarchive](http://www.iconarchive.com)  
- - [x] Arrow top
- - [x] Smooth scroll
- - [x] [ © Badge](https://shields.io/) : Creative Commons Zero v1.0 Universal
- - [x] [ © Ribbon](https://github.com/simonwhitaker/github-fork-ribbon-css)
- - [x] [ © Cookies](https://jekyllcodex.org)
- - [x] [License Selector](https://ufal.github.io/public-license-selector/)
- - [x] [Crisp](app.crisp.chat)
+ - [Favicon](https://realfavicongenerator.net)  
+ - [Free icons from Iconarchive](http://www.iconarchive.com)  
+ - Arrow top
+ - Smooth scroll
+ - [ © Badge](https://shields.io/) : Creative Commons Zero v1.0 Universal
+ - [ © Ribbon](https://github.com/simonwhitaker/github-fork-ribbon-css)
+ - [ © Cookies](https://jekyllcodex.org)
+ - [License Selector](https://ufal.github.io/public-license-selector/)
+ - [Crisp](app.crisp.chat)
 
 ###### License
  - [x] [![LICENSE](https://img.shields.io/badge/Personal%20Data%20Protected%20by%3A-EU%20GDPR%20Law-orange)](https://europa.eu/youreurope/business/dealing-with-customers/data-protection/data-protection-gdpr/index_en.htm)
