@@ -1,6 +1,6 @@
 *
 *
-* Team:  kazuRo --- We are humans! ... Do you?
+* Team:  kazuRo --- We are humans! ... Are you?
 *
 *
 *  Creator:       Ro
@@ -8,12 +8,12 @@
 *  Photo Gallery: www.flickr.com/photos/rotokyo/albums
 *  Location:      Tokyo, Japan
 *
-*  Last updated: 2020-03-04 14:31:29 +0000
+*  Last updated: 2020-03-05 02:49:49 +0000
 *
-*  Language:     日本語, English, Italiano
+*  Language:     Japanese, English, Italiano
 *  Built with:   Jekyll 4.0.0 <https://jekyllrb.com>
-*								 BBEdit <https://www.barebones.com>
-*								 Atom <https://https://atom.io/>
-*								 JPEGmini Lite <https://www.jpegmini.com>
-*								 Real Favicon Generator <https://realfavicongenerator.net>
+*                BBEdit <https://www.barebones.com>
+*                Atom <https://https://atom.io/>
+*                JPEGmini Lite <https://www.jpegmini.com>
+*                Real Favicon Generator <https://realfavicongenerator.net>
 *
