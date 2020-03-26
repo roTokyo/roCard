@@ -99,6 +99,32 @@ body {
   scroll-behavior: smooth;
 }
 
+.bodybgk {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50% 50%;
+  height: 100vh;
+  background-image: url("https://res.cloudinary.com/dpr6frnpl/image/upload/f_auto,q_auto,w_415/v1584944760/bc/bgk_portrait.jpg");
+}
+
+@media screen and (orientation: landscape) and (min-width: 568px) {
+  .bodybgk {
+    background-image: url("https://res.cloudinary.com/dpr6frnpl/image/upload/f_auto,q_auto,w_568/v1584944754/bc/bgk_landscape.jpg");
+  }
+}
+
+@media screen and (orientation: landscape) and (min-width: 812px) {
+  .bodybgk {
+    background-image: url("https://res.cloudinary.com/dpr6frnpl/image/upload/f_auto,q_auto,w_812/v1584944754/bc/bgk_landscape.jpg");
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .bodybgk {
+    background-image: url("https://res.cloudinary.com/dpr6frnpl/image/upload/v1584944754/bc/bgk_landscape.jpg");
+  }
+}
+
 /* Tipography
  ** Table of contens:
  *
